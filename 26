@@ -1,2 +1,3 @@
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/01fed7c6df5010af94ea3573c411f8ebe75a4f78483d6bb6ebb2718ca7c0808c/download"))()
 --dont try to deobfuscate please :).
+--and keep using the github link for future updates <333
